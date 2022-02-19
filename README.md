@@ -1,4 +1,4 @@
-Olá 👋😃
+## Olá ✋ Seja bem vindo(a)!
 - 🔭 Atualmente trabalhando com projetos pessoais.
 - 🌱 Estudando Java e JavaScript.
 

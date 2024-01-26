@@ -1,6 +1,7 @@
 ## Olá ✋ Seja bem vindo(a)!
+- Aluno de Engenharia de Software! 
 - 🔭 Atualmente trabalhando com projetos pessoais.
-- 🌱 Estudando Java e JavaScript.
+- 🌱 Estudando HTML,CSS e JavaScript.
 
 <div align="center">
   <a href="https://github.com/DomMarques">

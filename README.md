@@ -10,18 +10,12 @@ Sou desenvolvedor em aprendizado constante, focado em criar projetos práticos e
 
 ---
 
-<div align="center">
-  <a href="https://github.com/DomMarques">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DomMarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomMarques&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-FF0000?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-0000FF?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript&logoColor=F7DF1E" />
 </p>
+
 ---
 
 ### 🔗 Vamos nos conectar
